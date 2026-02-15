@@ -8,10 +8,10 @@ Desde 2016, atuo na área de hospedagem e administração de servidores, com foc
 
 ## Experiências Profissionais
 
-- **Gerente na HETZ HOST**  
+- **Gerente na HETZ HOST (2024-2025)** 
   Responsável pela coordenação das operações de hospedagem, suporte técnico e infraestrutura, garantindo a satisfação dos clientes e a eficiência dos serviços.
 
-- **Gerente Financeiro na G2N HOST e G2N Telecom**  
+- **Gerente Financeiro na G2N HOST e G2N Telecom (2023-2024)**  
   Gestão financeira, planejamento orçamentário e controle de custos, contribuindo para a sustentabilidade e crescimento das empresas.
 
 - **Gestor de Servidores FiveM**  
